@@ -1,5 +1,5 @@
 [project]
-name = "officialeye"
+name = "recotool"
 version = "1.2.2"
 description = "AI-powered generic document-analysis tool"
 authors = [
@@ -28,12 +28,12 @@ classifiers = [
 ]
 
 [project.scripts]
-officialeye = "officialeye._cli.main:main"
+recotool = "officialeye._cli.main:main"
 
 [project.urls]
-Homepage = "https://github.com/ZeroBone/OfficialEye"
-Documentation = "https://officialeye.zerobone.net"
-Issues = "https://github.com/ZeroBone/OfficialEye/issues"
+Homepage = "https://github.com/JMNext/RecoTool"
+Documentation = "https://github.com/JMNext/RecoTool"
+Issues = "https://github.com/JMNext/RecoTool/issues"
 
 [tool.pdm]
 distribution = "false"
